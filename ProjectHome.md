@@ -1,0 +1,1 @@
+The Supreme Commander Script Extender (SCSE) is a tool for modders that expands the scripting capabilities of Supreme Commander.
